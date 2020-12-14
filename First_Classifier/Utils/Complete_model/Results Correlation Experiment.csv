@@ -1,0 +1,2 @@
+Results of the experiment of ,2020-05-26 23:32:09.320616
+Here is the experiment we did with the preprocessing : ,notch,and the feature selection : ,MRMR,with the parameters,"{'Notch': 0, 'Drift': 0.5, 'Baseline Wandering': 0, 'Wavelet': 0, 'Filter_bandpass': [0, 0], 'Padding': 0, 'Mirroring': 0, 'Feature_selection': 'MRMR'}"

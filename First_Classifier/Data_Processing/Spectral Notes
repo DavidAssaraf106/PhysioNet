@@ -1,0 +1,7 @@
+What is the plot magnitude (dB) vs frequency (Hz)?
+Power Spectral decomposition, log-domain.
+
+I_ Fourier Transform
+The Fourier transform of a signal identifies its frequency components. The power spectrum is the plot to display: power spectrum vs frequency:
+noise = spikes in power.
+Log-domain

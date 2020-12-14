@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: matlabruntimeforpython
+Version: R2020a
+Summary: A module to call MATLAB from Python
+Home-page: https://www.mathworks.com/
+Author: MathWorks
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: Linux
+Platform: Windows
+Platform: MacOS
